@@ -1,0 +1,12 @@
+[
+  {
+    "outputFileName": "wwwroot/css/sty.min.css",
+    "inputFiles": [
+      "wwwroot/site.css",
+      "wwwroot/sty.css"
+    ],
+    "minify": {
+      "enabled": false
+    }
+  }
+]
